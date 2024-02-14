@@ -1,0 +1,103 @@
+ID,lat,long,Place,State,City
+0,43.1310080,-70.918525,Three Chimneys Inn,NH,Durham
+1,44.4404056,-72.6798578,Emily's Bridge,VT,Stowe
+2,41.6988070,-71.156407,Lizzie Borden House,MA,Fall River
+3,42.6733866,-73.0915873,The Hoosac Tunnel,MA,North Adams
+4,42.5574852,-71.9807807,S.K. Pierce Mansion,MA,Gardner
+5,42.3575313,-71.4691568,Longfellow's Wayside Inn,MA,Sudbury
+6,42.4617047,-71.3496517,Concord's Colonial Inn,MA,Concord
+7,41.7728168,-71.0296064,Freetown-Fall River State Forest,MA,Assonet
+8,42.5162160,-70.910225,Gallows Hill,MA,Salem
+9,42.5174319,-70.9091478,Proctor's Ledge,MA,Salem
+10,42.5212124,-70.8997968,Ropes Mansion,MA,Salem
+11,42.6962960,-73.1063591,Houghton Mansion,MA,North Adams
+12,42.0146330,-71.012082,Hockomock Swamp,MA,Raynham
+13,42.3585002,-71.0599241,Kings Chapel Burying Ground,MA,Boston
+14,42.4003397,-71.2139282,Metropolitan State Hospital,MA,Waltham
+15,42.2726406,-72.4145564,Belchertown State School,MA,Belchertown
+16,42.2636420,-71.896673,Spider Gates Cemetery,MA,Leicester
+17,43.9463549,-70.1192825,Royalsborough Inn,ME,Durham
+18,44.1086730,-70.2148714,Riverside Cemetary,ME,Lewiston
+19,45.8263231,-67.9879768,"Haynesville Road, Route 2A",ME,Haynesville
+20,44.2304611,-69.0476748,Maiden Cliff Trail,ME,Camden
+21,43.6143735,-70.2131151,Beckett's Castle,ME,Cape Elizabeth
+22,44.6691381,-70.1489941,USM Farmington,ME,Farmington
+23,43.8582211,-70.1026224,Jameson Tavern,ME,Freeport
+24,43.7355626,-70.4156038,Smith-Anderson Cemetary,ME,Windham
+25,43.7381665,-70.555441,Old Red Church ,ME,Standish
+26,44.5717667,-68.7843204,Cursed Tomb of Colonel Buck,ME,Bucksport
+27,41.1895771,-71.5679001,The Palatine,RI,Block Island
+28,42.0091173,-71.7096935,The Perron House,RI,Burrillville
+29,41.6942734,-71.5440491,Nathanael Greene Homestead,RI,Coventry
+30,41.9340864,-71.4042122,Cumberland Monastary/Library,RI,Cumberland
+31,41.5807467,-71.5584478,Grave of Mercy Brown,RI,Exeter
+32,41.5556950,-71.542381,The Ladd School,RI,Exeter
+33,41.8199182,-71.7043525,The Ramtail Mill,RI,Foster
+34,41.4818983,-71.3675597,Fort Wetherill,RI,Jamestown
+35,41.4699145,-71.2981522,The Breakers,RI,Newport
+36,41.4678179,-71.3040671,Seaview Terrace,RI,Newport
+37,41.4758017,-71.3354155,Fort Adams,RI,Newport
+38,41.4911463,-71.3129371,The White Horse Tavern,RI,Newport
+39,41.8777376,-71.3829646,Slater Mill,RI,Pawtucket
+40,41.8242752,-71.413425,The Biltmore Hotel,RI,Providence
+41,41.8204641,-71.427659,Barnaby Castle,RI,Providence
+42,41.6244848,-71.2073449,Fort Barton Woods,RI,Tiverton
+43,41.8437058,-73.3292848,Dudleytown,CT,Cornwell
+44,41.8835617,-71.9618903,Bara-Hack,CT,Pomfret
+45,41.3509790,-71.9721425,Captain Daniel Packer Inn,CT,Mystic
+46,41.5335257,-73.2064158,Curtis House,CT,Woodbury
+47,41.4856693,-72.341798,Devils Hopyard State Park,CT,East Haddam
+48,41.4010210,-73.2851937,Fairfield Hills State Hospital,CT,Newton
+49,41.5407091,-73.0890935,Little Peoples Village,CT,Middlebury
+50,41.4892648,-72.0731327,Norwich State Hospital,CT,Norwich
+51,41.1863410,-73.172713,Remington Arms Munitions Factory,CT,Bridgeport
+52,41.0843736,-73.5786036,Fort Stamford,CT,Stamford
+53,41.2730160,-73.297721,Union Cemetery,CT,Easton
+54,41.1824094,-73.1907184,Palace & Majestic Theaters,CT,Bridgeport
+55,41.327390,-73.091633,Sterling Opera House,CT,Derby
+56,41.6234491,-72.7443492,Meeting House Square,CT,Hartford
+57,41.3554050,-72.038268,Pequot Hill,CT,Groton
+58,44.3813200,-68.21107,Coach Stop Inn,ME,Bar Harbor
+59,44.3163186,-69.7693596,Kennebec Arsenal,ME,Augusta
+60,43.7983371,-70.2542786,Greely High School,ME,Cumberland
+61,44.1046650,-69.114048,Lime Rock Inn,ME,Rockland
+62,43.8543322,-69.6265625,Boothbay Opera House,ME,Boothbay
+63,44.0119830,-70.978423,Admiral Peary Inn,ME,Fryeburg
+64,44.7793290,-69.716391,The Strand Cinema,ME,Skowhegan
+65,44.4589710,-68.914138,Carriage House Inn,ME,Searsport
+66,44.5663440,-68.804687,Fort Knox,ME,Prospect
+67,43.4564110,-71.220617,Alton Town Hall,NH,Alton
+68,44.2568473,-71.4397775,The Mount Washington Hotel,NH,Bretton Woods
+69,43.2303140,-71.536101,Margarita's,NH,Concord
+70,43.2003310,-71.544889,New Hampshire Asylum for the Insane,NH,Concord
+71,43.2050273,-71.5360586,Siam Orchid Restaurant,NH,Concord
+72,43.9588815,-71.0846146,Stark Road Cemetary,NH,Conway
+73,43.1959288,-70.8742176,The Old Dover Mills,NH,Dover
+74,43.1787732,-71.3380185,The Epsom Red Schoolhouse,NH,Epsom
+75,42.9672400,-70.96606,Exeter River Mobile Home Park,NH,Exeter
+76,42.7648060,-72.150916,The Amos J Blake House,NH,Fitzwilliam
+77,43.5843727,-71.382137,Kimball Castel,NH,Guillford
+78,43.0203600,-71.60035,St. Anselm College,NH,Goffstown
+79,42.9127980,-70.810963,Island Path Road,NH,Hampton
+80,43.7033054,-72.2893869,Dartmouth College,NH,Hanover
+81,43.5281930,-71.4700656,The Colonial Theater,NH,Laconia
+82,43.6087448,-71.4597921,Winnipesaukee Marketplace,NH,Laconia
+83,42.8387459,-71.4783688,Griffin School,NH,Litchfield
+84,42.9732367,-71.4683568,Hesser College,NH,Manchester
+85,42.9878672,-71.4660628,RG Sullivan Building,NH,Manchester
+86,42.9769302,-71.4454367,Saint Joseph Middle School,NH,Manchester
+87,42.8396802,-71.4914846,The Common Man Restaurant,NH,Merrimack
+88,42.8257970,-71.629517,Lorden Plaza,NH,Millford
+89,42.7895921,-71.5174664,The Country Tavern Restaurant,NH,Nashua
+90,42.7161998,-71.5129427,Gilson Cemetary,NH,Nashua
+91,42.9440210,-73.0878364,Glastenbury Wilderness,VT,Binnington
+92,43.6878797,-72.9517848,The Eddy House,VT,Chittenden
+93,43.6477450,-72.420751,The Quechee Inn at Marshland Farm,VT,Quechee
+94,43.7145086,-73.0174541,Vermont Police Academy,VT,Pittsford
+95,44.9084866,-72.8021359,Opera House at Enosburg Falls,VT,Enosburg
+96,44.1391790,-72.6612695,Norwich University,VT,Northfield
+97,43.3000260,-72.477309,Hartness House Inn,VT,Springfield
+98,42.8691739,-73.2186346,Southern Vermont Colleve,VT,Bennington
+99,43.1695980,-72.918049,The Bennington Triangle,VT,Winhall
+100,43.5931020,-73.2670234,Marble Mansion,VT,Fair Haven
+101,42.8684100,-72.87149,The White House Inn,VT,Wilmington
