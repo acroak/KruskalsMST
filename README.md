@@ -3,6 +3,8 @@ An exploration of Kruskals Minimum spanning tree algorithm and data mining techn
 
 [Presentation Slides](https://docs.google.com/presentation/d/11EplUqDGT-1qiBw_tUAmfMQNFtDv574Lv6r2bq4sTQQ/edit?usp=sharing)
 
+[Final Report](https://github.com/acroak/KruskalsMST/blob/main/Archive/5800_Final_Report.pdf)
+
 Team: Andrea Croak, Wil Moore, Keegan Moseley
 
 <hr />   
